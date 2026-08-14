@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /jmp/
-title: job market paper
+title: Job Market Paper
 description:
 nav: false # 잡마켓 시즌에 true로 바꾸고 nav_order를 1로 (D'Amico식 JMP-first 구조)
 nav_order: 1
