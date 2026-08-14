@@ -2,14 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
-nav: false
-nav_order: 6
-calendar: true
+description:
+nav: true
+nav_order: 2
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+<!-- TODO: 강의 경력을 여기에 작성하세요. 형식 예시:
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+## Teaching Assistant, Korea University
 
-{% include courses.liquid %}
+- Principles of Economics (Undergraduate) — Spring 2023, Fall 2023
+- Macroeconomics (Undergraduate) — Spring 2024
+
+강의별 페이지가 필요해지면 _teachings/ 폴더에 md 파일을 추가하면
+이 페이지에 카드로 나열됩니다. -->
+
+Teaching experience will be listed here.

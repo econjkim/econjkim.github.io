@@ -147,3 +147,18 @@
     </progress>
   {% endif %}
 </header>
+
+<!-- local override (2026-08-15): sky-blue accent. CSS-variable override lives
+     here because shadowing the gem's _sass is ineffective (gem-internal
+     relative @use) and a shadowed head.liquid hung the build. -->
+<style>
+  :root {
+    --global-theme-color: #0ea5e9;
+    --global-hover-color: #0ea5e9;
+    --global-code-bg-color: rgba(14, 165, 233, 0.05);
+  }
+  html[data-theme="dark"] {
+    --global-theme-color: #38bdf8;
+    --global-hover-color: #38bdf8;
+  }
+</style>
