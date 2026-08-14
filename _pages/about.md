@@ -43,7 +43,7 @@ sector calibrated to the Korean economy.
 <div class="about-socials" style="font-size: 1.6rem; margin-top: 0.4rem;">
   <a href="/assets/pdf/cv.pdf" title="CV" style="margin-right: 0.9rem;"><i class="ai ai-cv"></i></a>
   <a href="mailto:kjw1438@korea.ac.kr" title="Email" style="margin-right: 0.9rem;"><i class="fa-solid fa-envelope"></i></a>
-  <a href="https://github.com/macrojwkim" title="GitHub" style="margin-right: 0.9rem;"><i class="fa-brands fa-github"></i></a>
+  <a href="https://github.com/econjkim" title="GitHub" style="margin-right: 0.9rem;"><i class="fa-brands fa-github"></i></a>
   <a href="https://scholar.google.com/citations?user=V5w1-AYAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
 </div>
 

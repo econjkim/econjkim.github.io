@@ -3,5 +3,5 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/cv.pdf # TODO: 실제 CV를 assets/pdf/cv.pdf로 업로드 (지금은 자리표시 PDF)
 email: kjw1438@korea.ac.kr # 아이콘 클릭 시 연결되는 대표 이메일 (플러그인은 주소 1개만 지원)
-github_username: macrojwkim
+github_username: econjkim
 scholar_userid: V5w1-AYAAAAJ # your Google Scholar ID
