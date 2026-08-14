@@ -9,10 +9,16 @@
     --global-theme-color: #0ea5e9;
     --global-hover-color: #0ea5e9;
     --global-code-bg-color: rgba(14, 165, 233, 0.05);
-  }
   html[data-theme="dark"] {
     --global-theme-color: #38bdf8;
     --global-hover-color: #38bdf8;
+  }
+  /* about-page contact icons: text color at rest, accent on hover */
+  .about-socials a {
+    color: var(--global-text-color);
+  }
+  .about-socials a:hover {
+    color: var(--global-hover-color);
   }
 </style> <div class="container mt-5" role="main"> <div class="post"> <div class="header-bar"> <h1>blog</h1> <h2></h2> </div> <ul class="post-list"> </ul> </div> </div> <footer class="sticky-bottom mt-5" role="contentinfo"> <div class="container"> © Copyright 2026 Jongwon Kim. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="external nofollow noopener">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" rel="external nofollow noopener" target="_blank">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. </div> </footer> <script>
   window.alFolio = {
