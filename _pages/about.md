@@ -38,5 +38,14 @@ analysis of central bank communication, structural VARs and local
 projections, and a DSGE model with housing collateral and a banking
 sector calibrated to the Korean economy.
 
-<!-- TODO: 아래에 학력 한 줄, 지도교수, 이메일 안내 등 원하는 내용 추가
+<!-- TODO: 아래에 학력 한 줄 등 원하는 내용 추가
 예: I received my B.A. and M.A. in Economics from Korea University. -->
+
+<!-- TODO(잡마켓 시즌): D'Amico식 References 블록 — 주석 해제 후 실제 정보로
+## References
+
+- Prof. [지도교수명] (chair) — [email]
+- Prof. [추천인 2] — [email]
+- Prof. [추천인 3] — [email]
+-->
+
