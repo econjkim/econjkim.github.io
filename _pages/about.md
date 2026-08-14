@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate in Economics, <a href='https://econ.korea.ac.kr'>Korea University</a>
+subtitle: Ph.D. Candidate in Economics, <a href='https://econ2.korea.ac.kr/econ/index.do'>Korea University</a>
 
 profile:
   align: right
