@@ -13,8 +13,8 @@ profile:
     <p>Korea University</p>
     <p>Seoul, South Korea</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # true로 바꾸면 selected={true} 논문이 첫 화면에 노출
+social: false # 하단 아이콘 대신 아래 본문에 직접 배치
 
 announcements:
   enabled: false # 뉴스 쓰기 시작하면 true로 바꾸고 _news/에 md 추가
@@ -37,6 +37,15 @@ and how monetary and macroprudential policies interact. It combines text
 analysis of central bank communication, structural VARs and local
 projections, and a DSGE model with housing collateral and a banking
 sector calibrated to the Korean economy.
+
+**Email:** kjw1438@gmail.com; kjw1438@korea.ac.kr
+
+<div style="font-size: 1.6rem; margin-top: 0.4rem;">
+  <a href="/assets/pdf/cv.pdf" title="CV" style="margin-right: 0.9rem;"><i class="ai ai-cv"></i></a>
+  <a href="mailto:kjw1438@korea.ac.kr" title="Email" style="margin-right: 0.9rem;"><i class="fa-solid fa-envelope"></i></a>
+  <a href="https://github.com/macrojwkim" title="GitHub" style="margin-right: 0.9rem;"><i class="fa-brands fa-github"></i></a>
+  <a href="https://scholar.google.com/citations?user=V5w1-AYAAAAJ" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+</div>
 
 <!-- TODO: 학력 한 줄 등 원하는 내용 추가
 예: I received my B.A. and M.A. in Economics from Korea University. -->

@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jongwon
 middle_name:
 last_name: Kim
-contact_note: >
-  Email is the best way to reach me.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal academic website of Jongwon Kim, Ph.D. Candidate in Economics at Korea University. Research on monetary policy, macroprudential policy, and financial stability.
 footer_text: >
