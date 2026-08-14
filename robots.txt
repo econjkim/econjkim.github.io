@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://macrojwkim.github.io/sitemap.xml
+Sitemap: https://econjkim.github.io/sitemap.xml
