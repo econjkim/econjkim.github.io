@@ -156,9 +156,15 @@
     --global-theme-color: #0ea5e9;
     --global-hover-color: #0ea5e9;
     --global-code-bg-color: rgba(14, 165, 233, 0.05);
-  }
   html[data-theme="dark"] {
     --global-theme-color: #38bdf8;
     --global-hover-color: #38bdf8;
+  }
+  /* about-page contact icons: text color at rest, accent on hover */
+  .about-socials a {
+    color: var(--global-text-color);
+  }
+  .about-socials a:hover {
+    color: var(--global-hover-color);
   }
 </style>

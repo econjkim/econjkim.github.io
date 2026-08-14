@@ -40,7 +40,7 @@ sector calibrated to the Korean economy.
 
 **Email:** kjw1438@gmail.com; kjw1438@korea.ac.kr
 
-<div style="font-size: 1.6rem; margin-top: 0.4rem;">
+<div class="about-socials" style="font-size: 1.6rem; margin-top: 0.4rem;">
   <a href="/assets/pdf/cv.pdf" title="CV" style="margin-right: 0.9rem;"><i class="ai ai-cv"></i></a>
   <a href="mailto:kjw1438@korea.ac.kr" title="Email" style="margin-right: 0.9rem;"><i class="fa-solid fa-envelope"></i></a>
   <a href="https://github.com/macrojwkim" title="GitHub" style="margin-right: 0.9rem;"><i class="fa-brands fa-github"></i></a>
