@@ -96,9 +96,9 @@ al_folio:
 navbar_fixed: true
 footer_fixed: false
 search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -364,7 +364,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
+  group_by: none
   group_order: descending
 
 # Display different badges withs stats for your publications
@@ -400,6 +400,7 @@ filtered_bibtex_keywords:
     poster,
     preview,
     selected,
+    status,
     slides,
     supp,
     video,
