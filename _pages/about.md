@@ -33,7 +33,9 @@ focus on **monetary policy, financial stability, and macroprudential
 policy**. I also work on **text analysis, labor economics, economic
 forecasting, and regional economics**.
 
-## Research Statement
+<details class="research-statement">
+<summary><h3 style="display:inline; margin:0;">Research Statement</h3></summary>
+<div markdown="1" style="margin-top: 0.6rem;">
 
 My research asks how central banks respond to financial instability
 when the tools for addressing it lie elsewhere. In
@@ -55,6 +57,9 @@ among workers past the pension-eligibility age, through accelerated
 retirement rather than reduced hiring. Beyond my dissertation, I work on
 text-based identification of monetary policy shocks and, in published and
 ongoing work, on using news articles and big data for economic forecasting.
+
+</div>
+</details>
 
 **Email:** kjw1438@gmail.com; kjw1438@korea.ac.kr
 

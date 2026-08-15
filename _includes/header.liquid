@@ -167,4 +167,21 @@
   .about-socials a:hover {
     color: var(--global-hover-color);
   }
+  /* collapsible research statement on the about page */
+  details.research-statement > summary {
+    cursor: pointer;
+    list-style: none;
+    margin: 1.2rem 0 0.2rem 0;
+  }
+  details.research-statement > summary::-webkit-details-marker { display: none; }
+  details.research-statement > summary::before {
+    content: "\25B8";           /* ▸ */
+    display: inline-block;
+    width: 1.1em;
+    color: var(--global-theme-color);
+    transition: transform 0.15s ease;
+  }
+  details.research-statement[open] > summary::before {
+    transform: rotate(90deg);
+  }
 </style>
