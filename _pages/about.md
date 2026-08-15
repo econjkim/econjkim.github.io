@@ -33,6 +33,8 @@ focus on **monetary policy, financial stability, and macroprudential
 policy**. I also work on **text analysis, labor economics, economic
 forecasting, and regional economics**.
 
+## Research Statement
+
 My research asks how central banks respond to financial instability
 when the tools for addressing it lie elsewhere. In
 [*Leaning Against Vulnerability, Cleaning After Stress*](/research/)
