@@ -35,23 +35,36 @@ forecasting, and regional economics**.
 
 My dissertation consists of three chapters:
 
-- **Leaning Against Vulnerability, Cleaning After Stress** (with Kwanho
-  Shin) builds text-based measures of the Bank of Korea's financial
-  stability sentiment from policy minutes and estimates augmented Taylor
-  rules: the BOK eases after financial stress but tightens against
-  building vulnerabilities, and the latter response emerges only after
-  the 2011 strengthening of its financial stability mandate.
-- **Financial Stability Mandate and Macroprudential Policy** combines
-  SVARs, state-dependent local projections, and a New Keynesian DSGE model
-  with housing collateral and a banking sector calibrated to Korea: monetary
-  policy substitutes for inactive macroprudential policy, but only
-  imperfectly, and information sharing between the two authorities recovers
-  much of the coordination gain.
-- **Generative AI, Older Workers, and Population Aging** uses matched CPS
-  worker flows and occupational AI-exposure measures: workers aged 65–74 are
-  the only group whose employment falls in exposed occupations, and the
-  adjustment runs through accelerated retirement past the pension boundary
-  rather than through hiring.
+- **Leaning Against Vulnerability, Cleaning After Stress: Monetary Policy
+  and Financial Instability** (with Kwanho Shin). Using a fine-tuned Korean
+  RoBERTa classifier, we construct meeting-level indices of the Bank of
+  Korea's financial stability sentiment from Monetary Policy Board minutes
+  and news coverage (1999–2024), separating financial *stress* from the
+  build-up of *vulnerabilities*, and embed them in GMM-estimated augmented
+  Taylor rules. The BOK eases in response to stress but tightens against
+  rising vulnerability sentiment, and the tightening response emerges only
+  after the 2011 amendment that strengthened its financial stability
+  mandate.
+- **Financial Stability Mandate and Macroprudential Policy.** Combining
+  structural VARs and state-dependent local projections for Korea, a
+  38-economy panel, and a New Keynesian DSGE model with housing collateral
+  and a banking sector calibrated to Korea, this chapter asks how
+  macroprudential policy responds to the central bank's perceived financial
+  instability and whether monetary policy substitutes for it. Stress and
+  vulnerability trigger opposite macroprudential responses; the policy rate
+  reacts more strongly to vulnerability when macroprudential policy is
+  inactive, but in the model it is only an imperfect substitute, and
+  information sharing between the two authorities recovers much of the gain
+  from coordination.
+- **Generative AI, Older Workers, and Population Aging.** Using matched CPS
+  worker flows and occupational exposure to generative AI in a
+  difference-in-differences design around the release of ChatGPT, this
+  chapter finds that workers aged 65–74 are the only age group whose
+  employment declines in exposed occupations. The adjustment runs through
+  separations into retirement rather than reduced hiring, and, exploiting
+  the Social Security full retirement age, the response appears only past
+  the pension-eligibility boundary — so population aging enters through the
+  worker's own position, not the age structure of the workplace.
 
 **Email:** kjw1438@gmail.com; kjw1438@korea.ac.kr
 
