@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: Ph.D. Candidate in Economics, <a href='https://econ2.korea.ac.kr/econ/index.do'>Korea University</a>
 
