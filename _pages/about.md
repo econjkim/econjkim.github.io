@@ -53,9 +53,8 @@ among workers past the pension-eligibility age, through accelerated
 retirement rather than reduced hiring.
 
 Beyond my dissertation, I work on text-based identification of monetary
-policy shocks and, in published and ongoing work, on using news and
-payment-card big data for economic forecasting and regional consumption
-measurement.
+policy shocks and, in published and ongoing work, on using news articles
+and big data for economic forecasting.
 
 **Email:** kjw1438@gmail.com; kjw1438@korea.ac.kr
 
