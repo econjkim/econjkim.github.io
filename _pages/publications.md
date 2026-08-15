@@ -31,7 +31,7 @@ nav_order: 1
 
 {% if n_wp != "0" %}
 <h2 class="bibliography">Working Papers</h2>
-{% bibliography --query @*[status=wp] %}
+{% bibliography --query @*[status=wp] --sort_by none %}
 {% endif %}
 
 {% if n_wip != "0" %}
