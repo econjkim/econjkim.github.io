@@ -33,12 +33,25 @@ focus on **monetary policy, financial stability, and macroprudential
 policy**. I also work on **text analysis, labor economics, economic
 forecasting, and regional economics**.
 
-My dissertation, *Financial Stability Mandate and Macroprudential Policy*,
-studies how central banks perceive and respond to financial instability,
-and how monetary and macroprudential policies interact. It combines text
-analysis of central bank communication, structural VARs and local
-projections, and a DSGE model with housing collateral and a banking
-sector calibrated to the Korean economy.
+My dissertation consists of three chapters:
+
+- **Leaning Against Vulnerability, Cleaning After Stress** (with Kwanho
+  Shin) builds text-based measures of the Bank of Korea's financial
+  stability sentiment from policy minutes and estimates augmented Taylor
+  rules: the BOK eases after financial stress but tightens against
+  building vulnerabilities, and the latter response emerges only after
+  the 2011 strengthening of its financial stability mandate.
+- **Financial Stability Mandate and Macroprudential Policy** combines
+  SVARs, state-dependent local projections, and a New Keynesian DSGE model
+  with housing collateral and a banking sector calibrated to Korea: monetary
+  policy substitutes for inactive macroprudential policy, but only
+  imperfectly, and information sharing between the two authorities recovers
+  much of the coordination gain.
+- **Generative AI, Older Workers, and Population Aging** uses matched CPS
+  worker flows and occupational AI-exposure measures: workers aged 65–74 are
+  the only group whose employment falls in exposed occupations, and the
+  adjustment runs through accelerated retirement past the pension boundary
+  rather than through hiring.
 
 **Email:** kjw1438@gmail.com; kjw1438@korea.ac.kr
 
