@@ -52,6 +52,11 @@ U.S. worker flows, I show that generative AI reduces employment only
 among workers past the pension-eligibility age, through accelerated
 retirement rather than reduced hiring.
 
+Beyond my dissertation, I work on text-based identification of monetary
+policy shocks and, in published and ongoing work, on using news and
+payment-card big data for economic forecasting and regional consumption
+measurement.
+
 **Email:** kjw1438@gmail.com; kjw1438@korea.ac.kr
 
 <div class="about-socials" style="font-size: 1.6rem; margin-top: 0.4rem;">
