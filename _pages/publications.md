@@ -36,7 +36,7 @@ nav_order: 1
 
 {% if n_wip != "0" %}
 <h2 class="bibliography">Work in Progress</h2>
-{% bibliography --query @*[status=wip] %}
+{% bibliography --query @*[status=wip] --sort_by none %}
 {% endif %}
 
 </div>
