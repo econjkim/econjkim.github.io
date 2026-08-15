@@ -31,8 +31,7 @@ I am a Ph.D. candidate in Economics at Korea University. My primary
 research fields are **macroeconomics and monetary economics**, with a
 focus on **monetary policy, financial stability, and macroprudential
 policy**. I also work on **text analysis, economic forecasting, labor
-economics, and regional economics**, including the labor-market effects
-of AI.
+economics, and regional economics**.
 
 My dissertation, *Financial Stability Mandate and Macroprudential Policy*,
 studies how central banks perceive and respond to financial instability,
