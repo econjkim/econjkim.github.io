@@ -33,23 +33,24 @@ focus on **monetary policy, financial stability, and macroprudential
 policy**. I also work on **text analysis, labor economics, economic
 forecasting, and regional economics**.
 
-My dissertation consists of three chapters:
-
-- **Leaning Against Vulnerability, Cleaning After Stress** (with Kwanho
-  Shin) uses text-based measures of the Bank of Korea's financial stability
-  sentiment to show that monetary policy eases after financial stress but
-  tightens against building vulnerabilities — a response that emerges only
-  after the 2011 strengthening of its financial stability mandate.
-- **Financial Stability Mandate and Macroprudential Policy** combines
-  Korean and cross-country evidence with a DSGE model of Korea to show that
-  monetary policy substitutes for inactive macroprudential policy, but only
-  imperfectly.
-- **Generative AI, Older Workers, and Population Aging** uses U.S. worker
-  flows to show that generative AI reduces employment only among workers
-  past the pension-eligibility age, through accelerated retirement rather
-  than reduced hiring.
-
-Full abstracts are on the [Research](/research/) page.
+My research asks how central banks respond to financial instability
+when the tools for addressing it lie elsewhere. In
+[*Leaning Against Vulnerability, Cleaning After Stress*](/research/)
+(with Kwanho Shin), I build text-based measures of the Bank of Korea's
+financial stability sentiment and show that the policy rate eases after
+financial stress but tightens against building vulnerabilities — a
+response that emerges only after the 2011 strengthening of its financial
+stability mandate. [*Financial Stability Mandate and Macroprudential
+Policy*](/research/) takes the interaction between the two policies to a
+structural model: combining Korean and cross-country evidence with a
+DSGE model of Korea, I find that monetary policy substitutes for inactive
+macroprudential policy, but only imperfectly, and that information
+sharing between the two authorities recovers much of the gain from
+coordination. A third paper, [*Generative AI, Older Workers, and
+Population Aging*](/research/), extends my work on labor markets: using
+U.S. worker flows, I show that generative AI reduces employment only
+among workers past the pension-eligibility age, through accelerated
+retirement rather than reduced hiring.
 
 **Email:** kjw1438@gmail.com; kjw1438@korea.ac.kr
 
