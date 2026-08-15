@@ -45,7 +45,7 @@ financial stress but tightens against building vulnerabilities — a
 response that emerges only after the 2011 strengthening of its financial
 stability mandate. [*Financial Stability Mandate and Macroprudential
 Policy*](/research/) takes the interaction between the two policies to a
-structural model: combining Korean and cross-country evidence with a
+structural model: combining empirical evidence with a
 DSGE model of Korea, I find that monetary policy substitutes for inactive
 macroprudential policy, but only imperfectly, and that information
 sharing between the two authorities recovers much of the gain from
