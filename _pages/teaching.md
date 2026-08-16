@@ -11,9 +11,9 @@ nav_order: 2
 
 <h2 class="bibliography">Teaching Assistant at Korea University</h2>
 
-- **Macroeconomics I** (graduate), taught by Prof. Kwanho Shin and Prof. Jinill Kim — Spring 2020
-- **Seminar on Special Topics of Monetary Theory** (graduate), taught by Prof. Kwanho Shin and Prof. Jinill Kim — Spring 2020
-- **Seminar on Special Topics of Monetary Theory** (graduate), taught by Prof. Kwanho Shin and Prof. Cheolbeom Park — Spring 2023
 - **Seminar on Macroeconomic Theory** (graduate), taught by Prof. Kwanho Shin and Prof. Cheolbeom Park — Fall 2023
+- **Seminar on Special Topics of Monetary Theory** (graduate), taught by Prof. Kwanho Shin and Prof. Cheolbeom Park — Spring 2023
+- **Seminar on Special Topics of Monetary Theory** (graduate), taught by Prof. Kwanho Shin and Prof. Jinill Kim — Spring 2020
+- **Macroeconomics I** (graduate), taught by Prof. Kwanho Shin and Prof. Jinill Kim — Spring 2020
 
 </div>
