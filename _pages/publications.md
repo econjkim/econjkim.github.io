@@ -19,9 +19,11 @@ nav_order: 1
 {% capture n_wp  %}{% bibliography_count --query @*[status=wp]  %}{% endcapture %}
 {% capture n_wip %}{% bibliography_count --query @*[status=wip] %}{% endcapture %}
 
-{% if n_jmp != "0" %}
 <h2 class="bibliography">Job Market Paper</h2>
+{% if n_jmp != "0" %}
 {% bibliography --query @*[status=jmp] %}
+{% else %}
+<p style="color: var(--global-text-color-light);"><em>To be announced.</em></p>
 {% endif %}
 
 {% if n_pub != "0" %}
