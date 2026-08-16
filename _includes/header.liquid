@@ -197,4 +197,12 @@
     opacity: 1;
     margin: 1.8rem 0 1rem 0;
   }
+  /* research entries: let the text column extend into the unused
+     right-hand (thumbnail) column so long titles do not wrap early */
+  @media (min-width: 576px) {
+    .publications ol.bibliography li .row > .col-sm-8 {
+      flex: 0 0 83.3333%;
+      max-width: 83.3333%;
+    }
+  }
 </style>
