@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<div class="publications">
+<div class="publications" markdown="1">
 
 <h2 class="bibliography">Teaching Assistant at Korea University</h2>
 
