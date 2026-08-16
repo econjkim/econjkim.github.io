@@ -37,7 +37,7 @@ forecasting, and regional economics**.
 <div markdown="1" style="font-size: 0.92rem;">
 
 My research asks how central banks respond to financial instability
-when the tools for addressing it lie elsewhere. In
+when the direct tools for addressing it lie elsewhere. In
 [*Leaning Against Vulnerability, Cleaning After Stress*](/research/)
 (with Kwanho Shin), I build text-based measures of the Bank of Korea's
 financial stability sentiment and show that the policy rate eases after
