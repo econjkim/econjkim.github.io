@@ -7,14 +7,22 @@ nav: true
 nav_order: 2
 ---
 
-<!-- TODO: 강의 경력을 여기에 작성하세요. 형식 예시:
+<div class="publications">
 
-## Teaching Assistant, Korea University
+<h2 class="bibliography">Teaching Assistant at Korea University</h2>
 
-- Principles of Economics (Undergraduate) — Spring 2023, Fall 2023
-- Macroeconomics (Undergraduate) — Spring 2024
+<!-- TODO: 실제 과목·학기·역할로 교체. 역할(grading, review sessions,
+     office hours 등)을 한 줄 붙이면 "감독만 했나"는 질문을 예방합니다.
+     시험 감독만 한 과목은 관행상 TA로 넣지 않는 것을 권합니다. -->
 
-강의별 페이지가 필요해지면 _teachings/ 폴더에 md 파일을 추가하면
-이 페이지에 카드로 나열됩니다. -->
+- **Principles of Economics** (Undergraduate) — Spring 2024, Fall 2024
+  <br><span style="color: var(--global-text-color-light); font-size: 0.9em;">Grading and review sessions</span>
+- **Macroeconomics** (Undergraduate) — Spring 2025
+  <br><span style="color: var(--global-text-color-light); font-size: 0.9em;">Grading and office hours</span>
 
-Teaching experience will be listed here.
+<!-- 다른 섹션이 필요하면 같은 형식으로 추가:
+<h2 class="bibliography">Lecturer</h2>
+- **Course** (Level) — Term
+-->
+
+</div>
